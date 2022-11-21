@@ -1,8 +1,4 @@
-/*
-ID: david.j6
-LANG: JAVA
-TASK: paint
-*/
+
 import java.io.*;
 import java.util.*;
 
